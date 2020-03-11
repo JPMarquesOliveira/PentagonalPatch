@@ -1,0 +1,80 @@
+$begin 'CacheDataVersion'
+	DataVersion=291
+$end 'CacheDataVersion'
+$begin 'InterrogationCache'
+	Version=1
+	$begin 'VariableValues'
+		$wl='3mm'
+		$h='1.57mm'
+		$W='65mm'
+		$L='65mm'
+		$LL='22mm'
+		$g='1mm'
+		$c='2mm'
+		h='1.57mm'
+		Lp1='3.635mm'
+		Lp2='18.282mm'
+		Lp3='19.433mm'
+		Wp1='19.978mm'
+		Wp2='18.83mm'
+		Wp3='4.903mm'
+		Lg2='0.854mm'
+		Lpd='41.989mm'
+		Ld='27.412mm'
+		Wg1='5.44mm'
+		Wg2='2.457mm'
+		Wg3='8.973mm'
+		wf='2.199mm'
+		Lg1='9.159mm'
+	$end 'VariableValues'
+	$begin 'ValidationStatus'
+		$begin 'Options'
+			EntityCheckLevel='Strict'
+			IgnoreUnclassifiedObjects=false
+			SkipIntersectionChecks=false
+		$end 'Options'
+		Status=false
+	$end 'ValidationStatus'
+	$begin 'BodyCaches'
+		$begin '576'
+			$begin 'CheckStatus'
+				CheckLevel=20
+				Status=true
+			$end 'CheckStatus'
+			$begin 'BoundingBox'
+				Low[3: -7.5, -0.017999999999999999, -3.1400000000000001]
+				High[3: 7.5, 0, 3.1400000000000001]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '576'
+		$begin '605'
+		$end '605'
+		$begin '2000'
+			$begin 'BoundingBox'
+				Low[3: -48.528500000000001, 0, -1.5700000000000001]
+				High[3: 48.528500000000001, 27.477, 0]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '2000'
+		$begin '4206'
+			$begin 'BoundingBox'
+				Low[3: -40.111499999999992, 0, 0]
+				High[3: 40.111499999999992, 69.429999999999993, 0]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '4206'
+		$begin '4218'
+			$begin 'BoundingBox'
+				Low[3: -48.528500000000001, 0, 0]
+				High[3: 48.528500000000001, 27.477, 0]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '4218'
+	$end 'BodyCaches'
+	$begin 'IntersectionCaches'
+	$end 'IntersectionCaches'
+$end 'InterrogationCache'

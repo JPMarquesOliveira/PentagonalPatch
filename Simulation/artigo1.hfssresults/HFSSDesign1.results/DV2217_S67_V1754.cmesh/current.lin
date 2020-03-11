@@ -1,0 +1,1915 @@
+lines 261
+l 1 334 333 a
+	hydras 3
+	h 1 695 1
+	h 2 694 0
+	h 3 267 4
+end_hydra
+l 2 336 335 a
+	hydras 2
+	h 1 11 0
+	h 2 52 2
+end_hydra
+l 3 343 350 a
+	hydras 2
+	h 1 60 2
+	h 2 62 2
+end_hydra
+l 4 350 336 a
+	hydras 2
+	h 1 640 4
+	h 2 638 4
+end_hydra
+l 5 326 345 a
+	hydras 2
+	h 1 1 5
+	h 2 2 5
+end_hydra
+l 6 345 344 a
+	hydras 2
+	h 1 530 2
+	h 2 1 2
+end_hydra
+l 7 335 366 a
+	hydras 2
+	h 1 729 2
+	h 2 727 5
+end_hydra
+l 8 366 361 a
+	hydras 2
+	h 1 7 2
+	h 2 6 0
+end_hydra
+l 9 324 325 a
+	hydras 3
+	h 1 566 5
+	h 2 567 4
+	h 3 569 2
+end_hydra
+l 10 326 327 a
+	hydras 2
+	h 1 18 3
+	h 2 19 3
+end_hydra
+l 11 346 345 a
+	hydras 2
+	h 1 531 2
+	h 2 3 2
+end_hydra
+l 12 350 349 a
+	hydras 2
+	h 1 57 0
+	h 2 58 2
+end_hydra
+l 13 352 351 a
+	hydras 2
+	h 1 55 3
+	h 2 56 3
+end_hydra
+l 14 351 333 a
+	hydras 2
+	h 1 575 5
+	h 2 574 4
+end_hydra
+l 15 367 366 a
+	hydras 2
+	h 1 9 3
+	h 2 10 3
+end_hydra
+l 16 334 369 a
+	hydras 2
+	h 1 44 2
+	h 2 43 2
+end_hydra
+l 17 369 368 a
+	hydras 2
+	h 1 81 4
+	h 2 42 0
+end_hydra
+l 18 343 344 a
+	hydras 3
+	h 1 520 5
+	h 2 521 5
+	h 3 49 4
+end_hydra
+l 19 342 351 a
+	hydras 3
+	h 1 577 1
+	h 2 45 2
+	h 3 576 0
+end_hydra
+l 20 360 361 a
+	hydras 4
+	h 1 701 3
+	h 2 700 3
+	h 3 456 3
+	h 4 455 3
+end_hydra
+l 21 359 364 a
+	hydras 2
+	h 1 465 5
+	h 2 4 0
+end_hydra
+l 22 364 365 a
+	hydras 2
+	h 1 8 2
+	h 2 5 3
+end_hydra
+l 23 364 324 a
+	hydras 2
+	h 1 464 4
+	h 2 8 4
+end_hydra
+l 24 368 367 a
+	hydras 4
+	h 1 706 4
+	h 2 705 4
+	h 3 393 1
+	h 4 392 0
+end_hydra
+l 25 363 327 a
+	hydras 2
+	h 1 590 5
+	h 2 588 5
+end_hydra
+l 26 360 363 a
+	hydras 2
+	h 1 586 4
+	h 2 584 4
+end_hydra
+l 27 362 363 a
+	hydras 2
+	h 1 587 2
+	h 2 33 4
+end_hydra
+l 28 359 358 a
+	hydras 3
+	h 1 629 2
+	h 2 611 3
+	h 3 39 2
+end_hydra
+l 29 358 369 a
+	hydras 2
+	h 1 80 5
+	h 2 44 5
+end_hydra
+l 30 341 348 a
+	hydras 3
+	h 1 651 4
+	h 2 532 2
+	h 3 649 4
+end_hydra
+l 31 348 325 a
+	hydras 3
+	h 1 649 0
+	h 2 648 1
+	h 3 536 5
+end_hydra
+l 32 348 347 a
+	hydras 3
+	h 1 533 2
+	h 2 333 3
+	h 3 334 3
+end_hydra
+l 33 346 347 a
+	hydras 4
+	h 1 593 5
+	h 2 509 2
+	h 3 511 2
+	h 4 507 1
+end_hydra
+l 34 342 579 a
+	hydras 2
+	h 1 665 5
+	h 2 494 4
+end_hydra
+l 35 341 579 a
+	hydras 2
+	h 1 148 2
+	h 2 149 2
+end_hydra
+l 36 580 349 a
+	hydras 3
+	h 1 557 4
+	h 2 554 5
+	h 3 544 3
+end_hydra
+l 37 352 580 a
+	hydras 2
+	h 1 152 2
+	h 2 150 2
+end_hydra
+l 38 362 581 a
+	hydras 2
+	h 1 153 2
+	h 2 154 2
+end_hydra
+l 39 365 581 a
+	hydras 2
+	h 1 156 2
+	h 2 155 2
+end_hydra
+l 40 134 133 a
+	hydras 5
+	h 1 1274 1
+	h 2 3909 5
+	h 3 1163 5
+	h 4 1306 0
+	h 5 1307 1
+end_hydra
+l 41 26 148 a
+	hydras 4
+	h 1 1520 5
+	h 2 3809 1
+	h 3 1552 4
+	h 4 1169 2
+end_hydra
+l 42 202 293 a
+	hydras 5
+	h 1 3849 5
+	h 2 850 5
+	h 3 1451 5
+	h 4 852 2
+	h 5 794 2
+end_hydra
+l 43 163 265 a
+	hydras 5
+	h 1 874 3
+	h 2 986 5
+	h 3 875 3
+	h 4 4012 4
+	h 5 1206 3
+end_hydra
+l 44 130 39 a
+	hydras 6
+	h 1 3884 1
+	h 2 1572 2
+	h 3 3883 0
+	h 4 1755 4
+	h 5 1213 1
+	h 6 1513 3
+end_hydra
+l 45 39 260 a
+	hydras 6
+	h 1 3884 2
+	h 2 1572 4
+	h 3 3882 2
+	h 4 1343 0
+	h 5 1301 0
+	h 6 1342 1
+end_hydra
+l 46 31 160 a
+	hydras 6
+	h 1 995 4
+	h 2 762 4
+	h 3 3998 5
+	h 4 1375 0
+	h 5 3957 2
+	h 6 1376 1
+end_hydra
+l 47 160 161 a
+	hydras 8
+	h 1 4024 3
+	h 2 4023 3
+	h 3 3848 2
+	h 4 991 4
+	h 5 1482 0
+	h 6 1003 5
+	h 7 1483 1
+	h 8 1001 4
+end_hydra
+l 48 65 163 a
+	hydras 5
+	h 1 1089 4
+	h 2 804 1
+	h 3 4044 3
+	h 4 1381 2
+	h 5 4045 3
+end_hydra
+l 49 265 51 a
+	hydras 5
+	h 1 1044 1
+	h 2 1043 0
+	h 3 3825 0
+	h 4 748 3
+	h 5 1215 4
+end_hydra
+l 50 38 134 a
+	hydras 5
+	h 1 3963 0
+	h 2 3962 1
+	h 3 1626 2
+	h 4 1197 0
+	h 5 1625 5
+end_hydra
+l 51 36 38 a
+	hydras 4
+	h 1 3814 1
+	h 2 1187 0
+	h 3 1205 4
+	h 4 1598 4
+end_hydra
+l 52 148 202 a
+	hydras 4
+	h 1 3850 5
+	h 2 1423 5
+	h 3 1178 2
+	h 4 1249 3
+end_hydra
+l 53 260 27 a
+	hydras 6
+	h 1 3574 4
+	h 2 3575 2
+	h 3 3573 2
+	h 4 1184 2
+	h 5 3804 2
+	h 6 3832 0
+end_hydra
+l 54 35 52 a
+	hydras 6
+	h 1 938 0
+	h 2 937 1
+	h 3 784 2
+	h 4 3875 5
+	h 5 3841 0
+	h 6 1322 4
+end_hydra
+l 55 28 65 a
+	hydras 6
+	h 1 1121 2
+	h 2 1091 5
+	h 3 1120 1
+	h 4 3760 4
+	h 5 4041 3
+	h 6 4040 3
+end_hydra
+l 56 161 28 a
+	hydras 9
+	h 1 1048 3
+	h 2 1049 3
+	h 3 4020 3
+	h 4 889 4
+	h 5 4019 3
+	h 6 1183 0
+	h 7 4005 5
+	h 8 4007 2
+	h 9 1248 3
+end_hydra
+l 57 51 158 a
+	hydras 4
+	h 1 1068 5
+	h 2 4001 5
+	h 3 1064 4
+	h 4 1353 2
+end_hydra
+l 58 52 200 a
+	hydras 5
+	h 1 3877 4
+	h 2 820 4
+	h 3 1280 0
+	h 4 896 5
+	h 5 898 2
+end_hydra
+l 59 133 130 a
+	hydras 7
+	h 1 3935 2
+	h 2 3932 2
+	h 3 3827 5
+	h 4 1254 1
+	h 5 1179 0
+	h 6 1512 3
+	h 7 1511 3
+end_hydra
+l 60 287 26 a
+	hydras 4
+	h 1 3580 5
+	h 2 1231 0
+	h 3 3852 5
+	h 4 1196 0
+end_hydra
+l 61 27 287 a
+	hydras 4
+	h 1 1762 4
+	h 2 1502 1
+	h 3 3950 2
+	h 4 1297 4
+end_hydra
+l 62 158 35 a
+	hydras 5
+	h 1 1000 5
+	h 2 3917 5
+	h 3 975 2
+	h 4 1296 4
+	h 5 1279 1
+end_hydra
+l 63 293 31 a
+	hydras 5
+	h 1 3921 2
+	h 2 781 5
+	h 3 1489 2
+	h 4 934 3
+	h 5 933 3
+end_hydra
+l 64 200 36 a
+	hydras 6
+	h 1 3960 2
+	h 2 1777 5
+	h 3 3958 5
+	h 4 1314 2
+	h 5 1323 2
+	h 6 1325 2
+end_hydra
+l 65 200 85 a
+	hydras 5
+	h 1 3959 0
+	h 2 3958 1
+	h 3 3877 5
+	h 4 1323 4
+	h 5 820 2
+end_hydra
+l 66 169 26 a
+	hydras 6
+	h 1 1214 3
+	h 2 1242 0
+	h 3 3941 5
+	h 4 1169 1
+	h 5 3943 2
+	h 6 3809 2
+end_hydra
+l 67 41 169 a
+	hydras 5
+	h 1 3880 1
+	h 2 3879 0
+	h 3 3420 4
+	h 4 1175 5
+	h 5 1457 1
+end_hydra
+l 68 168 38 a
+	hydras 7
+	h 1 3964 0
+	h 2 3965 1
+	h 3 1209 2
+	h 4 3814 5
+	h 5 1639 3
+	h 6 1205 3
+	h 7 1640 3
+end_hydra
+l 69 202 201 a
+	hydras 4
+	h 1 3851 4
+	h 2 1420 2
+	h 3 3849 4
+	h 4 850 2
+end_hydra
+l 70 201 41 a
+	hydras 6
+	h 1 3840 0
+	h 2 3851 5
+	h 3 1273 3
+	h 4 1420 5
+	h 5 1250 4
+	h 6 1344 3
+end_hydra
+l 71 199 168 a
+	hydras 5
+	h 1 3859 5
+	h 2 1294 5
+	h 3 1446 2
+	h 4 1181 4
+	h 5 1445 3
+end_hydra
+l 72 85 199 a
+	hydras 4
+	h 1 3860 4
+	h 2 1435 5
+	h 3 3829 0
+	h 4 791 2
+end_hydra
+l 73 57 59 a
+	hydras 4
+	h 1 3620 2
+	h 2 3618 4
+	h 3 1263 1
+	h 4 819 4
+end_hydra
+l 74 209 210 a
+	hydras 4
+	h 1 1347 1
+	h 2 1346 0
+	h 3 1277 0
+	h 4 919 5
+end_hydra
+l 75 86 57 a
+	hydras 4
+	h 1 1562 1
+	h 2 1563 5
+	h 3 832 5
+	h 4 1167 0
+end_hydra
+l 76 82 86 a
+	hydras 5
+	h 1 1792 4
+	h 2 1402 2
+	h 3 1793 5
+	h 4 767 0
+	h 5 1174 2
+end_hydra
+l 77 211 212 a
+	hydras 5
+	h 1 1422 0
+	h 2 1421 1
+	h 3 1216 3
+	h 4 852 3
+	h 5 851 3
+end_hydra
+l 78 205 206 a
+	hydras 4
+	h 1 3558 1
+	h 2 822 0
+	h 3 2970 5
+	h 4 2968 3
+end_hydra
+l 79 210 211 a
+	hydras 4
+	h 1 1600 2
+	h 2 881 4
+	h 3 1603 2
+	h 4 1344 2
+end_hydra
+l 80 223 222 a
+	hydras 7
+	h 1 1730 1
+	h 2 2940 4
+	h 3 1517 3
+	h 4 956 4
+	h 5 1816 5
+	h 6 1817 4
+	h 7 777 1
+end_hydra
+l 81 221 220 a
+	hydras 4
+	h 1 3527 2
+	h 2 1515 1
+	h 3 940 4
+	h 4 1796 4
+end_hydra
+l 82 214 213 a
+	hydras 4
+	h 1 1737 4
+	h 2 1581 5
+	h 3 780 3
+	h 4 1218 0
+end_hydra
+l 83 59 62 a
+	hydras 5
+	h 1 3796 3
+	h 2 1224 0
+	h 3 3794 0
+	h 4 855 5
+	h 5 1797 4
+end_hydra
+l 84 212 98 a
+	hydras 5
+	h 1 1387 1
+	h 2 1203 2
+	h 3 1390 5
+	h 4 809 1
+	h 5 810 0
+end_hydra
+l 85 220 219 a
+	hydras 4
+	h 1 3704 5
+	h 2 1812 5
+	h 3 733 3
+	h 4 1814 2
+end_hydra
+l 86 216 215 a
+	hydras 6
+	h 1 1567 4
+	h 2 1568 5
+	h 3 1653 2
+	h 4 1569 2
+	h 5 866 2
+	h 6 760 3
+end_hydra
+l 87 206 190 a
+	hydras 5
+	h 1 2978 1
+	h 2 2977 0
+	h 3 1284 2
+	h 4 759 3
+	h 5 732 2
+end_hydra
+l 88 190 84 a
+	hydras 4
+	h 1 2979 2
+	h 2 2977 4
+	h 3 1267 5
+	h 4 759 1
+end_hydra
+l 89 222 221 a
+	hydras 6
+	h 1 1302 4
+	h 2 914 4
+	h 3 1795 4
+	h 4 1714 3
+	h 5 1516 1
+	h 6 1713 3
+end_hydra
+l 90 208 209 a
+	hydras 3
+	h 1 3484 4
+	h 2 1208 0
+	h 3 836 0
+end_hydra
+l 91 98 224 a
+	hydras 5
+	h 1 1437 0
+	h 2 1436 1
+	h 3 1264 2
+	h 4 806 1
+	h 5 805 0
+end_hydra
+l 92 219 218 a
+	hydras 5
+	h 1 1141 4
+	h 2 1194 2
+	h 3 1283 0
+	h 4 1570 3
+	h 5 1571 3
+end_hydra
+l 93 213 101 a
+	hydras 4
+	h 1 1747 2
+	h 2 1494 0
+	h 3 1745 5
+	h 4 783 4
+end_hydra
+l 94 101 203 a
+	hydras 5
+	h 1 1746 0
+	h 2 1745 1
+	h 3 1312 5
+	h 4 783 5
+	h 5 1313 5
+end_hydra
+l 95 48 44 a
+	hydras 4
+	h 1 1405 0
+	h 2 1592 2
+	h 3 1778 5
+	h 4 920 4
+end_hydra
+l 96 84 292 a
+	hydras 6
+	h 1 1528 2
+	h 2 2966 4
+	h 3 1532 2
+	h 4 1530 5
+	h 5 773 3
+	h 6 798 5
+end_hydra
+l 97 75 82 a
+	hydras 4
+	h 1 1272 4
+	h 2 1731 2
+	h 3 882 1
+	h 4 3565 5
+end_hydra
+l 98 217 216 a
+	hydras 7
+	h 1 3473 2
+	h 2 3475 2
+	h 3 903 0
+	h 4 3477 2
+	h 5 902 1
+	h 6 3471 1
+	h 7 1357 4
+end_hydra
+l 99 204 205 a
+	hydras 5
+	h 1 1735 1
+	h 2 1739 4
+	h 3 1433 5
+	h 4 743 3
+	h 5 792 4
+end_hydra
+l 100 207 208 a
+	hydras 3
+	h 1 1226 1
+	h 2 951 2
+	h 3 1193 1
+end_hydra
+l 101 292 48 a
+	hydras 6
+	h 1 3572 3
+	h 2 1199 0
+	h 3 3570 0
+	h 4 946 5
+	h 5 1406 0
+	h 6 1262 0
+end_hydra
+l 102 218 217 a
+	hydras 5
+	h 1 1493 1
+	h 2 774 3
+	h 3 1204 2
+	h 4 2942 0
+	h 5 2941 3
+end_hydra
+l 103 224 223 a
+	hydras 6
+	h 1 3501 5
+	h 2 2984 4
+	h 3 967 4
+	h 4 2986 5
+	h 5 1438 4
+	h 6 2988 2
+end_hydra
+l 104 215 214 a
+	hydras 4
+	h 1 961 2
+	h 2 1200 2
+	h 3 1756 5
+	h 4 1566 1
+end_hydra
+l 105 62 95 a
+	hydras 4
+	h 1 3497 2
+	h 2 3495 5
+	h 3 1604 2
+	h 4 833 2
+end_hydra
+l 106 44 75 a
+	hydras 5
+	h 1 2950 5
+	h 2 1594 5
+	h 3 884 1
+	h 4 1165 0
+	h 5 885 0
+end_hydra
+l 107 95 191 a
+	hydras 5
+	h 1 3430 1
+	h 2 3431 0
+	h 3 1409 4
+	h 4 1650 2
+	h 5 863 2
+end_hydra
+l 108 191 207 a
+	hydras 5
+	h 1 1409 2
+	h 2 863 4
+	h 3 1408 2
+	h 4 1463 3
+	h 5 1464 3
+end_hydra
+l 109 203 204 a
+	hydras 5
+	h 1 1743 0
+	h 2 1742 1
+	h 3 1324 3
+	h 4 897 2
+	h 5 1325 3
+end_hydra
+l 110 201 80 a
+	hydras 5
+	h 1 1273 1
+	h 2 1336 5
+	h 3 1250 3
+	h 4 916 1
+	h 5 917 0
+end_hydra
+l 111 70 68 a
+	hydras 4
+	h 1 3749 1
+	h 2 3748 0
+	h 3 2849 1
+	h 4 928 1
+end_hydra
+l 112 50 175 a
+	hydras 5
+	h 1 1086 5
+	h 2 3745 4
+	h 3 985 5
+	h 4 4018 4
+	h 5 4009 4
+end_hydra
+l 113 228 227 a
+	hydras 4
+	h 1 1268 2
+	h 2 1258 2
+	h 3 744 0
+	h 4 1373 5
+end_hydra
+l 114 92 99 a
+	hydras 4
+	h 1 1466 4
+	h 2 1468 4
+	h 3 1458 5
+	h 4 821 4
+end_hydra
+l 115 55 49 a
+	hydras 5
+	h 1 1078 4
+	h 2 1189 3
+	h 3 782 2
+	h 4 3817 3
+	h 5 3874 2
+end_hydra
+l 116 200 193 a
+	hydras 5
+	h 1 1825 4
+	h 2 1777 3
+	h 3 1827 4
+	h 4 1314 5
+	h 5 802 2
+end_hydra
+l 117 226 294 a
+	hydras 5
+	h 1 1229 2
+	h 2 949 3
+	h 3 1384 0
+	h 4 950 3
+	h 5 1383 1
+end_hydra
+l 118 233 232 a
+	hydras 5
+	h 1 1232 3
+	h 2 1261 2
+	h 3 869 4
+	h 4 1509 1
+	h 5 1508 0
+end_hydra
+l 119 96 63 a
+	hydras 4
+	h 1 1358 4
+	h 2 1356 3
+	h 3 787 4
+	h 4 1425 4
+end_hydra
+l 120 193 269 a
+	hydras 5
+	h 1 1830 0
+	h 2 1829 1
+	h 3 1497 2
+	h 4 766 4
+	h 5 1496 1
+end_hydra
+l 121 42 40 a
+	hydras 6
+	h 1 764 3
+	h 2 735 3
+	h 3 3949 1
+	h 4 754 5
+	h 5 3667 4
+	h 6 4032 5
+end_hydra
+l 122 225 100 a
+	hydras 6
+	h 1 2952 1
+	h 2 772 3
+	h 3 2951 3
+	h 4 732 3
+	h 5 1591 5
+	h 6 1220 2
+end_hydra
+l 123 100 268 a
+	hydras 4
+	h 1 2953 1
+	h 2 1786 5
+	h 3 2952 3
+	h 4 772 1
+end_hydra
+l 124 76 96 a
+	hydras 4
+	h 1 1652 4
+	h 2 1430 4
+	h 3 865 5
+	h 4 1432 5
+end_hydra
+l 125 294 225 a
+	hydras 5
+	h 1 1612 0
+	h 2 1611 1
+	h 3 1526 4
+	h 4 797 2
+	h 5 1525 4
+end_hydra
+l 126 64 70 a
+	hydras 4
+	h 1 1093 5
+	h 2 1809 2
+	h 3 3764 0
+	h 4 3763 1
+end_hydra
+l 127 90 194 a
+	hydras 4
+	h 1 2981 2
+	h 2 807 4
+	h 3 1539 3
+	h 4 1538 3
+end_hydra
+l 128 43 42 a
+	hydras 5
+	h 1 1071 2
+	h 2 1023 5
+	h 3 1069 2
+	h 4 3656 4
+	h 5 4026 5
+end_hydra
+l 129 176 43 a
+	hydras 6
+	h 1 1059 3
+	h 2 1058 3
+	h 3 1052 3
+	h 4 3648 4
+	h 5 1051 3
+	h 6 4021 5
+end_hydra
+l 130 40 201 a
+	hydras 5
+	h 1 3807 4
+	h 2 1335 2
+	h 3 3853 5
+	h 4 843 2
+	h 5 768 3
+end_hydra
+l 131 49 50 a
+	hydras 5
+	h 1 3643 5
+	h 2 1015 4
+	h 3 3914 2
+	h 4 984 4
+	h 5 4003 5
+end_hydra
+l 132 99 233 a
+	hydras 4
+	h 1 1651 5
+	h 2 1470 2
+	h 3 895 4
+	h 4 1469 5
+end_hydra
+l 133 58 88 a
+	hydras 4
+	h 1 755 4
+	h 2 1715 4
+	h 3 1395 2
+	h 4 1707 5
+end_hydra
+l 134 231 230 a
+	hydras 4
+	h 1 3801 5
+	h 2 3791 1
+	h 3 1164 3
+	h 4 775 5
+end_hydra
+l 135 68 58 a
+	hydras 4
+	h 1 1488 0
+	h 2 1487 1
+	h 3 2930 5
+	h 4 922 4
+end_hydra
+l 136 94 92 a
+	hydras 5
+	h 1 2959 3
+	h 2 3421 4
+	h 3 953 3
+	h 4 1467 5
+	h 5 954 3
+end_hydra
+l 137 269 76 a
+	hydras 5
+	h 1 1251 0
+	h 2 962 3
+	h 3 1271 0
+	h 4 963 3
+	h 5 1233 4
+end_hydra
+l 138 73 55 a
+	hydras 6
+	h 1 3813 2
+	h 2 1170 4
+	h 3 3821 1
+	h 4 815 2
+	h 5 770 0
+	h 6 800 0
+end_hydra
+l 139 88 91 a
+	hydras 4
+	h 1 2939 4
+	h 2 955 2
+	h 3 1705 2
+	h 4 1543 1
+end_hydra
+l 140 229 228 a
+	hydras 4
+	h 1 3741 4
+	h 2 964 5
+	h 3 3739 5
+	h 4 1351 5
+end_hydra
+l 141 227 226 a
+	hydras 5
+	h 1 1779 2
+	h 2 1585 2
+	h 3 921 2
+	h 4 1583 4
+	h 5 788 2
+end_hydra
+l 142 63 64 a
+	hydras 5
+	h 1 2956 0
+	h 2 2957 1
+	h 3 1411 2
+	h 4 841 4
+	h 5 1410 0
+end_hydra
+l 143 194 202 a
+	hydras 4
+	h 1 1178 0
+	h 2 1450 4
+	h 3 1249 4
+	h 4 793 2
+end_hydra
+l 144 230 229 a
+	hydras 4
+	h 1 1352 1
+	h 2 1537 5
+	h 3 1223 0
+	h 4 829 2
+end_hydra
+l 145 91 90 a
+	hydras 4
+	h 1 3500 2
+	h 2 1771 5
+	h 3 966 2
+	h 4 957 3
+end_hydra
+l 146 232 231 a
+	hydras 4
+	h 1 1765 5
+	h 2 859 5
+	h 3 1561 5
+	h 4 1560 0
+end_hydra
+l 147 80 94 a
+	hydras 4
+	h 1 1577 5
+	h 2 1448 1
+	h 3 860 4
+	h 4 1449 0
+end_hydra
+l 148 268 199 a
+	hydras 4
+	h 1 1445 1
+	h 2 1446 5
+	h 3 861 4
+	h 4 1647 4
+end_hydra
+l 149 199 73 a
+	hydras 5
+	h 1 3829 3
+	h 2 791 0
+	h 3 1648 5
+	h 4 792 1
+	h 5 862 5
+end_hydra
+l 150 98 194 a
+	hydras 5
+	h 1 1264 5
+	h 2 1211 3
+	h 3 805 2
+	h 4 1203 1
+	h 5 809 2
+end_hydra
+l 151 193 101 a
+	hydras 5
+	h 1 1495 1
+	h 2 1494 3
+	h 3 783 2
+	h 4 1176 0
+	h 5 1313 4
+end_hydra
+l 152 190 100 a
+	hydras 4
+	h 1 1172 0
+	h 2 1284 1
+	h 3 1220 4
+	h 4 732 5
+end_hydra
+l 153 99 191 a
+	hydras 4
+	h 1 1650 4
+	h 2 1462 4
+	h 3 863 5
+	h 4 1464 5
+end_hydra
+l 154 129 166 a
+	hydras 5
+	h 1 3910 2
+	h 2 1202 3
+	h 3 1620 1
+	h 4 1337 4
+	h 5 1621 0
+end_hydra
+l 155 168 131 a
+	hydras 4
+	h 1 3567 2
+	h 2 3964 4
+	h 3 1586 0
+	h 4 1209 4
+end_hydra
+l 156 166 39 a
+	hydras 6
+	h 1 3883 2
+	h 2 3881 2
+	h 3 1213 3
+	h 4 1299 5
+	h 5 1198 1
+	h 6 1300 2
+end_hydra
+l 157 197 129 a
+	hydras 4
+	h 1 1363 0
+	h 2 1642 4
+	h 3 1282 0
+	h 4 3812 1
+end_hydra
+l 158 131 197 a
+	hydras 4
+	h 1 3622 5
+	h 2 1734 5
+	h 3 3816 0
+	h 4 1159 3
+end_hydra
+l 159 50 123 a
+	hydras 4
+	h 1 3643 3
+	h 2 3757 5
+	h 3 3914 5
+	h 4 4011 4
+end_hydra
+l 160 14 131 a
+	hydras 5
+	h 1 3622 2
+	h 2 3816 1
+	h 3 3567 5
+	h 4 3962 4
+	h 5 3964 5
+end_hydra
+l 161 170 14 a
+	hydras 6
+	h 1 1379 4
+	h 2 1330 5
+	h 3 1378 3
+	h 4 3823 3
+	h 5 3905 4
+	h 6 1613 5
+end_hydra
+l 162 123 170 a
+	hydras 7
+	h 1 3900 0
+	h 2 3903 5
+	h 3 1308 1
+	h 4 1377 2
+	h 5 1612 5
+	h 6 3905 5
+	h 7 1613 4
+end_hydra
+l 163 139 169 a
+	hydras 5
+	h 1 1712 3
+	h 2 3709 5
+	h 3 3941 2
+	h 4 3711 2
+	h 5 1214 5
+end_hydra
+l 164 138 139 a
+	hydras 4
+	h 1 3815 0
+	h 2 1726 5
+	h 3 1506 2
+	h 4 1728 4
+end_hydra
+l 165 27 167 a
+	hydras 6
+	h 1 3573 5
+	h 2 1326 0
+	h 3 3804 4
+	h 4 1227 0
+	h 5 3918 5
+	h 6 1298 5
+end_hydra
+l 166 167 138 a
+	hydras 4
+	h 1 1503 0
+	h 2 1298 2
+	h 3 1514 4
+	h 4 3918 4
+end_hydra
+l 167 198 167 a
+	hydras 4
+	h 1 3733 5
+	h 2 1750 5
+	h 3 3731 4
+	h 4 3865 5
+end_hydra
+l 168 166 198 a
+	hydras 4
+	h 1 3881 5
+	h 2 1315 4
+	h 3 1299 2
+	h 4 1286 1
+end_hydra
+l 169 189 185 a
+	hydras 6
+	h 1 1341 1
+	h 2 1217 1
+	h 3 1340 0
+	h 4 3818 0
+	h 5 3843 0
+	h 6 3842 1
+end_hydra
+l 170 12 189 a
+	hydras 4
+	h 1 3983 2
+	h 2 2852 2
+	h 3 3818 2
+	h 4 1217 2
+end_hydra
+l 171 16 45 a
+	hydras 4
+	h 1 3890 5
+	h 2 3885 5
+	h 3 1319 2
+	h 4 1328 2
+end_hydra
+l 172 136 181 a
+	hydras 5
+	h 1 3926 5
+	h 2 1559 0
+	h 3 3927 5
+	h 4 3929 5
+	h 5 2963 0
+end_hydra
+l 173 192 182 a
+	hydras 4
+	h 1 3863 5
+	h 2 3862 0
+	h 3 1219 0
+	h 4 1702 4
+end_hydra
+l 174 173 47 a
+	hydras 5
+	h 1 3888 1
+	h 2 3887 0
+	h 3 1320 1
+	h 4 3845 5
+	h 5 1339 1
+end_hydra
+l 175 181 13 a
+	hydras 6
+	h 1 3978 1
+	h 2 3977 0
+	h 3 3864 2
+	h 4 1418 5
+	h 5 1788 5
+	h 6 1790 2
+end_hydra
+l 176 13 183 a
+	hydras 5
+	h 1 3982 3
+	h 2 3981 3
+	h 3 3835 3
+	h 4 1782 5
+	h 5 1442 3
+end_hydra
+l 177 6 136 a
+	hydras 4
+	h 1 1708 4
+	h 2 1471 4
+	h 3 3953 5
+	h 4 3838 4
+end_hydra
+l 178 183 16 a
+	hydras 4
+	h 1 3861 5
+	h 2 1646 2
+	h 3 3911 5
+	h 4 1622 5
+end_hydra
+l 179 177 184 a
+	hydras 6
+	h 1 3870 1
+	h 2 3806 2
+	h 3 3869 3
+	h 4 2842 3
+	h 5 1824 4
+	h 6 2843 3
+end_hydra
+l 180 195 56 a
+	hydras 4
+	h 1 1780 3
+	h 2 1820 4
+	h 3 3989 5
+	h 4 3985 0
+end_hydra
+l 181 185 173 a
+	hydras 4
+	h 1 3822 5
+	h 2 3843 2
+	h 3 1331 0
+	h 4 1340 4
+end_hydra
+l 182 77 192 a
+	hydras 5
+	h 1 1255 0
+	h 2 1348 2
+	h 3 3938 5
+	h 4 1349 2
+	h 5 3933 3
+end_hydra
+l 183 56 177 a
+	hydras 4
+	h 1 3868 2
+	h 2 1819 2
+	h 3 3867 3
+	h 4 1822 5
+end_hydra
+l 184 184 188 a
+	hydras 5
+	h 1 3988 4
+	h 2 3869 1
+	h 3 1195 3
+	h 4 1824 3
+	h 5 1823 3
+end_hydra
+l 185 188 12 a
+	hydras 4
+	h 1 3988 2
+	h 2 3986 4
+	h 3 1195 4
+	h 4 1275 5
+end_hydra
+l 186 174 6 a
+	hydras 5
+	h 1 3831 0
+	h 2 2847 3
+	h 3 3839 3
+	h 4 2846 3
+	h 5 1818 1
+end_hydra
+l 187 178 179 a
+	hydras 4
+	h 1 3872 5
+	h 2 3833 3
+	h 3 1477 4
+	h 4 1476 5
+end_hydra
+l 188 180 178 a
+	hydras 4
+	h 1 3811 3
+	h 2 1472 3
+	h 3 3873 4
+	h 4 1474 4
+end_hydra
+l 189 196 180 a
+	hydras 4
+	h 1 3837 1
+	h 2 1419 3
+	h 3 3834 5
+	h 4 1473 5
+end_hydra
+l 190 182 196 a
+	hydras 5
+	h 1 3976 5
+	h 2 3968 2
+	h 3 1834 0
+	h 4 1244 2
+	h 5 1833 1
+end_hydra
+l 191 45 172 a
+	hydras 4
+	h 1 3854 5
+	h 2 3858 2
+	h 3 1334 2
+	h 4 1333 4
+end_hydra
+l 192 132 187 a
+	hydras 4
+	h 1 1394 2
+	h 2 1350 2
+	h 3 3919 2
+	h 4 3925 5
+end_hydra
+l 193 187 77 a
+	hydras 4
+	h 1 3938 4
+	h 2 3919 5
+	h 3 1255 3
+	h 4 1394 4
+end_hydra
+l 194 179 186 a
+	hydras 5
+	h 1 3955 3
+	h 2 1575 5
+	h 3 3954 3
+	h 4 1477 3
+	h 5 3872 2
+end_hydra
+l 195 186 132 a
+	hydras 4
+	h 1 3955 5
+	h 2 1575 2
+	h 3 3936 2
+	h 4 1478 0
+end_hydra
+l 196 172 128 a
+	hydras 5
+	h 1 3628 5
+	h 2 1540 5
+	h 3 3626 4
+	h 4 3997 2
+	h 5 3857 3
+end_hydra
+l 197 258 174 a
+	hydras 4
+	h 1 3945 2
+	h 2 1541 2
+	h 3 3830 3
+	h 4 1276 3
+end_hydra
+l 198 47 195 a
+	hydras 4
+	h 1 3508 5
+	h 2 3970 5
+	h 3 3503 2
+	h 4 3984 4
+end_hydra
+l 199 5 139 a
+	hydras 5
+	h 1 3730 5
+	h 2 1505 5
+	h 3 3940 5
+	h 4 3947 5
+	h 5 3948 2
+end_hydra
+l 200 126 171 a
+	hydras 4
+	h 1 3737 0
+	h 2 3836 0
+	h 3 3554 2
+	h 4 3973 5
+end_hydra
+l 201 171 5 a
+	hydras 4
+	h 1 3554 5
+	h 2 3973 2
+	h 3 1804 3
+	h 4 3810 5
+end_hydra
+l 202 375 428 a
+	hydras 4
+	h 1 2751 5
+	h 2 40 0
+	h 3 374 4
+	h 4 105 4
+end_hydra
+l 203 379 456 a
+	hydras 3
+	h 1 1965 5
+	h 2 131 5
+	h 3 110 4
+end_hydra
+l 204 460 379 a
+	hydras 4
+	h 1 275 5
+	h 2 2256 2
+	h 3 570 4
+	h 4 568 4
+end_hydra
+l 205 458 380 a
+	hydras 4
+	h 1 3719 5
+	h 2 126 4
+	h 3 114 5
+	h 4 23 2
+end_hydra
+l 206 380 462 a
+	hydras 5
+	h 1 125 5
+	h 2 1958 4
+	h 3 1942 5
+	h 4 25 2
+	h 5 116 5
+end_hydra
+l 207 302 424 a
+	hydras 4
+	h 1 2114 5
+	h 2 163 5
+	h 3 468 4
+	h 4 47 5
+end_hydra
+l 208 456 302 a
+	hydras 3
+	h 1 2451 4
+	h 2 534 2
+	h 3 650 4
+end_hydra
+l 209 426 304 a
+	hydras 5
+	h 1 2065 5
+	h 2 168 4
+	h 3 2119 4
+	h 4 46 3
+	h 5 461 5
+end_hydra
+l 210 304 458 a
+	hydras 5
+	h 1 2231 5
+	h 2 2117 5
+	h 3 251 4
+	h 4 578 5
+	h 5 573 2
+end_hydra
+l 211 428 307 a
+	hydras 5
+	h 1 2126 4
+	h 2 542 0
+	h 3 467 3
+	h 4 541 1
+	h 5 466 3
+end_hydra
+l 212 307 460 a
+	hydras 3
+	h 1 2201 5
+	h 2 446 5
+	h 3 462 2
+end_hydra
+l 213 309 430 a
+	hydras 4
+	h 1 2141 5
+	h 2 209 1
+	h 3 83 3
+	h 4 82 3
+end_hydra
+l 214 462 309 a
+	hydras 5
+	h 1 2235 4
+	h 2 2132 4
+	h 3 268 5
+	h 4 270 2
+	h 5 266 4
+end_hydra
+l 215 424 373 a
+	hydras 3
+	h 1 2142 4
+	h 2 181 4
+	h 3 218 4
+end_hydra
+l 216 373 426 a
+	hydras 3
+	h 1 491 5
+	h 2 2145 5
+	h 3 492 4
+end_hydra
+l 217 430 375 a
+	hydras 3
+	h 1 2273 5
+	h 2 449 5
+	h 3 441 4
+end_hydra
+l 218 306 427 a
+	hydras 5
+	h 1 2622 4
+	h 2 572 3
+	h 3 354 5
+	h 4 583 4
+	h 5 585 2
+end_hydra
+l 219 459 306 a
+	hydras 5
+	h 1 34 3
+	h 2 2194 5
+	h 3 589 5
+	h 4 236 4
+	h 5 591 2
+end_hydra
+l 220 381 457 a
+	hydras 6
+	h 1 2876 0
+	h 2 370 5
+	h 3 2875 1
+	h 4 22 2
+	h 5 87 4
+	h 6 21 5
+end_hydra
+l 221 461 381 a
+	hydras 4
+	h 1 594 5
+	h 2 24 2
+	h 3 3010 5
+	h 4 719 5
+end_hydra
+l 222 372 423 a
+	hydras 3
+	h 1 134 5
+	h 2 2646 4
+	h 3 68 4
+end_hydra
+l 223 455 382 a
+	hydras 5
+	h 1 136 5
+	h 2 2028 4
+	h 3 16 1
+	h 4 132 5
+	h 5 17 0
+end_hydra
+l 224 429 308 a
+	hydras 4
+	h 1 74 5
+	h 2 2129 4
+	h 3 41 4
+	h 4 458 4
+end_hydra
+l 225 308 461 a
+	hydras 6
+	h 1 2678 4
+	h 2 2130 5
+	h 3 369 5
+	h 4 204 4
+	h 5 726 5
+	h 6 728 5
+end_hydra
+l 226 374 429 a
+	hydras 4
+	h 1 699 5
+	h 2 2188 4
+	h 3 454 4
+	h 4 2149 5
+end_hydra
+l 227 303 425 a
+	hydras 5
+	h 1 164 5
+	h 2 2178 5
+	h 3 61 4
+	h 4 226 4
+	h 5 59 5
+end_hydra
+l 228 457 303 a
+	hydras 5
+	h 1 288 4
+	h 2 224 5
+	h 3 2321 5
+	h 4 637 4
+	h 5 639 2
+end_hydra
+l 229 425 372 a
+	hydras 3
+	h 1 2263 4
+	h 2 175 4
+	h 3 279 5
+end_hydra
+l 230 427 374 a
+	hydras 4
+	h 1 2894 5
+	h 2 2390 5
+	h 3 401 4
+	h 4 308 4
+end_hydra
+l 231 423 301 a
+	hydras 4
+	h 1 48 4
+	h 2 320 5
+	h 3 160 4
+	h 4 2421 4
+end_hydra
+l 232 301 455 a
+	hydras 4
+	h 1 2429 4
+	h 2 680 5
+	h 3 293 5
+	h 4 20 1
+end_hydra
+l 233 382 459 a
+	hydras 3
+	h 1 2432 5
+	h 2 124 5
+	h 3 421 5
+end_hydra
+l 234 436 306 a
+	hydras 3
+	h 1 2623 5
+	h 2 580 0
+	h 3 360 1
+end_hydra
+l 235 307 437 a
+	hydras 4
+	h 1 2198 5
+	h 2 442 4
+	h 3 31 5
+	h 4 14 1
+end_hydra
+l 236 437 386 a
+	hydras 3
+	h 1 157 2
+	h 2 2202 4
+	h 3 241 5
+end_hydra
+l 237 386 436 a
+	hydras 3
+	h 1 486 4
+	h 2 2205 4
+	h 3 245 5
+end_hydra
+l 238 301 432 a
+	hydras 4
+	h 1 2336 5
+	h 2 478 1
+	h 3 296 4
+	h 4 479 0
+end_hydra
+l 239 433 302 a
+	hydras 4
+	h 1 2444 4
+	h 2 331 5
+	h 3 473 0
+	h 4 474 1
+end_hydra
+l 240 432 376 a
+	hydras 3
+	h 1 2578 4
+	h 2 70 5
+	h 3 345 5
+end_hydra
+l 241 376 433 a
+	hydras 4
+	h 1 2579 5
+	h 2 71 5
+	h 3 406 3
+	h 4 407 3
+end_hydra
+l 242 438 378 a
+	hydras 4
+	h 1 1874 5
+	h 2 2040 5
+	h 3 35 5
+	h 4 158 4
+end_hydra
+l 243 435 377 a
+	hydras 3
+	h 1 2593 4
+	h 2 549 5
+	h 3 543 4
+end_hydra
+l 244 377 434 a
+	hydras 3
+	h 1 555 2
+	h 2 2826 4
+	h 3 565 4
+end_hydra
+l 245 378 439 a
+	hydras 3
+	h 1 233 4
+	h 2 2183 5
+	h 3 709 5
+end_hydra
+l 246 304 435 a
+	hydras 5
+	h 1 2877 5
+	h 2 250 5
+	h 3 169 5
+	h 4 53 0
+	h 5 54 1
+end_hydra
+l 247 439 309 a
+	hydras 4
+	h 1 2548 4
+	h 2 264 4
+	h 3 723 2
+	h 4 37 5
+end_hydra
+l 248 434 303 a
+	hydras 4
+	h 1 559 0
+	h 2 2324 5
+	h 3 558 1
+	h 4 691 5
+end_hydra
+l 249 308 438 a
+	hydras 4
+	h 1 2677 5
+	h 2 2092 5
+	h 3 368 4
+	h 4 76 5
+end_hydra
+l 250 128 727 a
+	hydras 5
+	h 1 4014 2
+	h 2 3590 2
+	h 3 4000 2
+	h 4 3583 2
+	h 5 3584 2
+end_hydra
+l 251 175 728 a
+	hydras 6
+	h 1 1016 4
+	h 2 3651 5
+	h 3 983 2
+	h 4 4016 5
+	h 5 987 2
+	h 6 4013 2
+end_hydra
+l 252 728 164 a
+	hydras 5
+	h 1 1107 5
+	h 2 4043 4
+	h 3 1074 2
+	h 4 3585 2
+	h 5 1055 3
+end_hydra
+l 253 730 258 a
+	hydras 6
+	h 1 3588 2
+	h 2 4006 1
+	h 3 3586 2
+	h 4 4005 0
+	h 5 3587 2
+	h 6 4004 2
+end_hydra
+l 254 164 734 a
+	hydras 6
+	h 1 1154 2
+	h 2 1152 2
+	h 3 1113 4
+	h 4 1103 4
+	h 5 4031 4
+	h 6 3664 5
+end_hydra
+l 255 734 176 a
+	hydras 4
+	h 1 1050 5
+	h 2 4022 4
+	h 3 1026 5
+	h 4 3654 4
+end_hydra
+l 256 727 741 a
+	hydras 7
+	h 1 3756 0
+	h 2 3755 1
+	h 3 3646 2
+	h 4 4017 2
+	h 5 3644 2
+	h 6 4015 2
+	h 7 3645 2
+end_hydra
+l 257 741 175 a
+	hydras 5
+	h 1 4018 2
+	h 2 3745 5
+	h 3 4016 2
+	h 4 3746 4
+	h 5 3651 4
+end_hydra
+l 258 730 742 a
+	hydras 6
+	h 1 3671 2
+	h 2 4028 4
+	h 3 3647 2
+	h 4 4019 2
+	h 5 3663 2
+	h 6 4030 2
+end_hydra
+l 259 742 176 a
+	hydras 6
+	h 1 3675 4
+	h 2 3648 2
+	h 3 3654 5
+	h 4 4021 2
+	h 5 4022 2
+	h 6 4020 2
+end_hydra
+l 260 126 746 a
+	hydras 9
+	h 1 4027 2
+	h 2 4024 2
+	h 3 3672 3
+	h 4 3673 3
+	h 5 4034 5
+	h 6 4036 2
+	h 7 3658 2
+	h 8 3668 2
+	h 9 3666 2
+end_hydra
+l 261 746 43 a
+	hydras 7
+	h 1 3657 2
+	h 2 3662 4
+	h 3 4029 4
+	h 4 4023 2
+	h 5 3656 2
+	h 6 4025 2
+	h 7 4026 2
+end_hydra

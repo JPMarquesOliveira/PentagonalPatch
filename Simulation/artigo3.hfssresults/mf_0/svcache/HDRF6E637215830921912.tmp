@@ -1,0 +1,62 @@
+SimValueCacheVersionID=1
+$begin 'SimValueInfos'
+	NextUniqueID=4
+	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='GainTotal'
+			ValueState(90, 15, 0, 1)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=1
+		$begin 'SimValueParams'
+			QuantityName='S(1,1)'
+			ValueState(90, 15, 1, 2)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=2
+		$begin 'SimValueParams'
+			QuantityName='rETotal'
+			ValueState(67, 9, 1, 1)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=3
+		$begin 'SimValueParams'
+			QuantityName='DirTotal'
+			ValueState(90, 15, 0, 1)
+		$end 'SimValueParams'
+	$end 'SimValue'
+$end 'SimValueInfos'
+$begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=0
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=68
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=69
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=2950
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=0
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=3294
+						$begin 'MinorVVMap'
+							MajorVariation='$c=\'2mm\' $g=\'1mm\' $h=\'1.57mm\' $L=\'65mm\' $LL=\'22mm\' $W=\'65mm\' $wl=\'3mm\' d1=\'2mm\' d2=\'15mm\' g=\'0.2mm\' h=\'1.57mm\' l=\'10mm\' Ld=\'4mm\' Lg1=\'8mm\' Lg2=\'1mm\' Lpd=\'0.8mm\' Ltotal=\'27mm\' r1=\'3.1mm\' r2=\'4.5mm\' r3=\'7.5mm\' s=\'0.5mm\' w=\'0.3mm\' w1=\'1.04mm\' w2=\'0.83mm\' wf=\'3mm\' Wg=\'1.3mm\' Wg1=\'10.6mm\' Wg2=\'4mm\' Wg3=\'1mm\''
+							MinorCacheFile='min9A21952158327235539.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
+$end 'SimValueCache'

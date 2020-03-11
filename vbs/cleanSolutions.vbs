@@ -2,6 +2,8 @@
 ' Script Recorded by Ansoft HFSS Version 15.0.0
 ' 8:15:03 PM  Mar 01, 2020
 ' ----------------------------------------------
+Dim name
+name = WScript.Arguments(0)
 Dim oAnsoftApp
 Dim oDesktop
 Dim oProject
@@ -11,7 +13,7 @@ Dim oModule
 Set oAnsoftApp = CreateObject("AnsoftHfss.HfssScriptInterface")
 Set oDesktop = oAnsoftApp.GetAppDesktop()
 oDesktop.RestoreWindow
-Set oProject = oDesktop.SetActiveProject("artigo1")
+Set oProject = oDesktop.SetActiveProject(name)
 Set oDesign = oProject.SetActiveDesign("HFSSDesign1")
 oDesign.DeleteFullVariation Array( _
   "$c=" & Chr(39) & "2mm" & Chr(39) & " $g=" & Chr(39) & "1mm" & Chr(39) & " $h=" & Chr(39) & "" & _ 

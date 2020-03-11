@@ -1,12 +1,9 @@
 $begin 'CacheDataVersion'
-	DataVersion=172
+	DataVersion=392
 $end 'CacheDataVersion'
 $begin 'InterrogationCache'
 	Version=1
 	$begin 'VariableValues'
-		W1='40.185mm'
-		W2='23.749mm'
-		W3='18.136mm'
 		$wl='3mm'
 		$h='1.57mm'
 		$W='65mm'
@@ -14,15 +11,18 @@ $begin 'InterrogationCache'
 		$LL='22mm'
 		$g='1mm'
 		$c='2mm'
-		L1='33.728mm'
-		L2='24.478mm'
-		L3='6.937mm'
-		L4='2.91mm'
-		L5='10.266mm'
-		W4='16.605mm'
-		W5='18.937mm'
-		W6='5.708mm'
-		W7='0.788mm'
+		L1='32.868mm'
+		L2='25.483mm'
+		L3='6.481mm'
+		L4='3.046mm'
+		L5='11.035mm'
+		W1='43.207mm'
+		W2='22.936mm'
+		W3='14.007mm'
+		W4='16.708mm'
+		W5='18.89mm'
+		W6='4.838mm'
+		W7='0.748mm'
 		h='1.57mm'
 	$end 'VariableValues'
 	$begin 'ValidationStatus'
@@ -46,32 +46,32 @@ $begin 'InterrogationCache'
 		$end '605'
 		$begin '1725'
 			$begin 'BoundingBox'
-				Low[3: 3.6419999999999995, 0, 0]
-				High[3: 20.092500000000001, 10.266, 0]
+				Low[3: 3.1670000000000003, 0, 0]
+				High[3: 21.603500000000004, 11.035, 0]
 				Exact=false
 				Valid=true
 			$end 'BoundingBox'
 		$end '1725'
 		$begin '1738'
 			$begin 'BoundingBox'
-				Low[3: -20.092500000000001, 0, 0]
-				High[3: -3.6419999999999995, 10.266, 0]
+				Low[3: -21.603500000000004, 0, 0]
+				High[3: -3.1670000000000003, 11.035, 0]
 				Exact=false
 				Valid=true
 			$end 'BoundingBox'
 		$end '1738'
 		$begin '1749'
 			$begin 'BoundingBox'
-				Low[3: -13.314791228132155, 0, 0]
-				High[3: 13.314791228132165, 35.592237921249271, 0]
+				Low[3: -13.314791228132153, 0, 0]
+				High[3: 13.314791228132155, 36.36123792124927, 0]
 				Exact=false
 				Valid=true
 			$end 'BoundingBox'
 		$end '1749'
 		$begin '2000'
 			$begin 'BoundingBox'
-				Low[3: -20.092500000000001, 0, -1.5700000000000001]
-				High[3: 20.092500000000001, 33.728000000000002, 0]
+				Low[3: -21.6035, 0, -1.5700000000000001]
+				High[3: 21.6035, 32.868000000000002, 0]
 				Exact=false
 				Valid=true
 			$end 'BoundingBox'

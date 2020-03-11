@@ -2,6 +2,7 @@
 ' Script Recorded by Ansoft HFSS Version 15.0.0
 ' 3:55:43 PM  Feb 27, 2020
 ' ----------------------------------------------
+
 Dim oAnsoftApp
 Dim oDesktop
 Dim oProject
@@ -11,8 +12,8 @@ Dim oModule
 Set oAnsoftApp = CreateObject("AnsoftHfss.HfssScriptInterface")
 Set oDesktop = oAnsoftApp.GetAppDesktop()
 oDesktop.RestoreWindow
-Set oProject = oDesktop.SetActiveProject("Project1")
-Set oDesign = oProject.SetActiveDesign("HFSSDesign1")
+Set oProject = oDesktop.SetActiveProject(name)
+Set oDesign = oProject.SetActiveDesign("Project1")
 Set oModule = oDesign.GetModule("AnalysisSetup")
 oModule.InsertSetup "HfssDriven", Array("NAME:Setup1", "Frequency:=", "1GHz", "PortsOnly:=",  _
   false, "MaxDeltaS:=", 0.02, "UseMatrixConv:=", false, "MaximumPasses:=", 6, "MinimumPasses:=",  _

@@ -1,0 +1,24 @@
+$begin 'RFSM'
+	$begin 'RadSurfs'
+	$end 'RadSurfs'
+	$begin 'CustomSurfs'
+	$end 'CustomSurfs'
+	$begin 'SetupSolns'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=3, VersID=4, ParentID=69, VersID=3027, Context='0:0', DesVarn='$c=\'2mm\' $g=\'1mm\' $h=\'1.57mm\' $L=\'65mm\' $LL=\'22mm\' $W=\'65mm\' $wl=\'3mm\' h=\'1.57mm\' Ld=\'27.412mm\' Lg1=\'9.159mm\' Lg2=\'0.854mm\' Lp1=\'3.635mm\' Lp2=\'18.282mm\' Lp3=\'19.433mm\' Lpd=\'41.989mm\' wf=\'2.199mm\' Wg1=\'5.44mm\' Wg2=\'2.457mm\' Wg3=\'8.973mm\' Wp1=\'19.978mm\' Wp2=\'18.83mm\' Wp3=\'4.903mm\'', IntrVarn='Freq=\'2.45GHz\'')
+			SetupSolnFBOFile='B5F12044158343304140.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=3, VersID=4, ParentID=69, VersID=3027, Context='0:0', DesVarn='$c=\'2mm\' $g=\'1mm\' $h=\'1.57mm\' $L=\'65mm\' $LL=\'22mm\' $W=\'65mm\' $wl=\'3mm\' h=\'1.57mm\' Ld=\'27.028mm\' Lg1=\'8.121mm\' Lg2=\'0.861mm\' Lp1=\'5.281mm\' Lp2=\'24.592mm\' Lp3=\'16.71mm\' Lpd=\'46.491mm\' wf=\'3.593mm\' Wg1=\'5.485mm\' Wg2=\'2.547mm\' Wg3=\'8.496mm\' Wp1=\'22.873mm\' Wp2=\'16.778mm\' Wp3=\'5.51mm\'', IntrVarn='Freq=\'2.45GHz\'')
+			SetupSolnFBOFile='55012044158343256611.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=3, VersID=4, ParentID=69, VersID=3027, Context='0:0', DesVarn='$c=\'2mm\' $g=\'1mm\' $h=\'1.57mm\' $L=\'65mm\' $LL=\'22mm\' $W=\'65mm\' $wl=\'3mm\' h=\'1.57mm\' Ld=\'21.353mm\' Lg1=\'7.684mm\' Lg2=\'0.706mm\' Lp1=\'5.304mm\' Lp2=\'23.669mm\' Lp3=\'15.004mm\' Lpd=\'38.533mm\' wf=\'3.044mm\' Wg1=\'7.163mm\' Wg2=\'2.945mm\' Wg3=\'10.772mm\' Wp1=\'23.253mm\' Wp2=\'12.847mm\' Wp3=\'5.779mm\'', IntrVarn='Freq=\'2.45GHz\'')
+			SetupSolnFBOFile='7E012044158343276719.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=3, VersID=4, ParentID=69, VersID=3027, Context='0:0', DesVarn='$c=\'2mm\' $g=\'1mm\' $h=\'1.57mm\' $L=\'65mm\' $LL=\'22mm\' $W=\'65mm\' $wl=\'3mm\' h=\'1.57mm\' Ld=\'25.903mm\' Lg1=\'6.922mm\' Lg2=\'0.909mm\' Lp1=\'5.96mm\' Lp2=\'25.423mm\' Lp3=\'17.942mm\' Lpd=\'46.279mm\' wf=\'3.217mm\' Wg1=\'6.815mm\' Wg2=\'3.025mm\' Wg3=\'11.926mm\' Wp1=\'20.045mm\' Wp2=\'15.705mm\' Wp3=\'4.776mm\'', IntrVarn='Freq=\'2.45GHz\'')
+			SetupSolnFBOFile='8C112044158343283627.tmp'
+		$end 'SetupSolnEntry'
+	$end 'SetupSolns'
+$end 'RFSM'

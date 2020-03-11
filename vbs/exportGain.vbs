@@ -4,6 +4,8 @@
 ' ----------------------------------------------
 Dim path
 path = WScript.Arguments(0)
+Dim name
+name = WScript.Arguments(1)
 Dim oAnsoftApp
 Dim oDesktop
 Dim oProject
@@ -13,7 +15,7 @@ Dim oModule
 Set oAnsoftApp = CreateObject("AnsoftHfss.HfssScriptInterface")
 Set oDesktop = oAnsoftApp.GetAppDesktop()
 oDesktop.RestoreWindow
-Set oProject = oDesktop.SetActiveProject("artigo1")
+Set oProject = oDesktop.SetActiveProject(name)
 Set oDesign = oProject.SetActiveDesign("HFSSDesign1")
 Set oModule = oDesign.GetModule("ReportSetup")
 oModule.CreateReport "3D Polar Plot 1", "Far Fields", "3D Polar Plot",  _

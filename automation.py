@@ -1,55 +1,43 @@
 import subprocess
 import random
 import csv
+import settingsArtigo1
+
 
 pathCSV = "C:/Users/jpmar/Documents/Automation/PentagonalPatch/csv/"
-count = 1
-dict = {}
-dict["W1"] = 40
-dict["W2"] = 25
-dict["W3"] = 16.4
-dict["W4"] = 20
-dict["W5"] = 16
-dict["W6"] = 5
-dict["W7"] = 0.8
-dict["L1"] = 40
-dict["L2"] = 25
-dict["L3"] = 6
-dict["L4"] = 3
-dict["L5"] = 10
+name = "artigo1"
+
+with open("./artigo1.env") as file:
+    for line in file:
+        count = line
+    file.close()
+dict = settingsArtigo1.variables
 
 value = {}
-value["W1"] = ""
-value["W2"] = ""
-value["W3"] = ""
-value["W4"] = ""
-value["W5"] = ""
-value["W6"] = ""
-value["W7"] = ""
-value["L1"] = ""
-value["L2"] = ""
-value["L3"] = ""
-value["L4"] = ""
-value["L5"] = ""
+for key in dict:
+    value[key] =  "0"
 
 
 while(True):
-
-    for key in dict.keys():
-        value[key] = str(random.randint(int(1000 * (dict[key] - (2 / 10 * dict[key]))),
-                                        int(1000 * (dict[key] + (2 / 10 * dict[key])))) / 1000) + "mm"
-
+    while(True):
+        for key in dict.keys():
+            value[key] = str(random.randint(int(1000 * (dict[key] - (2 / 10 * dict[key]))),
+                                            int(1000 * (dict[key] + (2 / 10 * dict[key])))) / 1000) 
+        if((float(dict["L5"]) + 2*14)<dict["L1"] and (float(value["L3"])<7) and float(value["W4"])<20):
+            break
     sdict = str(value)
     S11 = pathCSV + "S11Solution" + str(count) + ".csv"
     Gain = pathCSV + "GainSolution" + str(count) + ".csv"
-    subprocess.call(["cscript.exe", "./vbs/changeVariable.vbs", sdict])
-    subprocess.call(["cscript.exe", "./vbs/analyse.vbs"])
-    subprocess.call(["cscript.exe", "./vbs/exportS11.vbs", S11])
-    subprocess.call(["cscript.exe", "./vbs/exportGain.vbs", Gain])
-    subprocess.call(["cscript.exe", "./vbs/cleanSolutions.vbs"])
-    with open(pathCSV + "headerCSV" + str(count) + ".csv", "w") as csvfile:
-	writer = csv.writer(csvfile, delimiter=',') 
-	for key in value.keys():              
-    	writer.writerow(key + " : " + value[key])
-    count += 1
-
+    subprocess.call(["cscript.exe", "./vbs/changeVariable.vbs", sdict,name])
+    subprocess.call(["cscript.exe", "./vbs/analyse.vbs",name])
+    subprocess.call(["cscript.exe", "./vbs/exportS11.vbs", S11,name])
+    subprocess.call(["cscript.exe", "./vbs/exportGain.vbs", Gain,name])
+    subprocess.call(["cscript.exe", "./vbs/cleanSolutions.vbs",name])
+    with open(pathCSV + "parametro" + str(count) + ".csv", "w") as csvfile:
+        writer = csv.writer(csvfile, delimiter=',') 
+        for key in value.keys():              
+            writer.writerow([key,value[key]])
+    count = int(count)+1
+    with open("./artigo1.env","w+") as file:
+        file.write(str(count))
+        file.close()

@@ -15,7 +15,8 @@ Function dict(a,s)
 End Function
 
 
-
+Dim name
+name = WScript.Arguments(1)
 Dim oAnsoftApp
 Dim oDesktop
 Dim oProject
@@ -25,7 +26,7 @@ Dim oModule
 Set oAnsoftApp = CreateObject("AnsoftHfss.HfssScriptInterface")
 Set oDesktop = oAnsoftApp.GetAppDesktop()
 oDesktop.RestoreWindow
-Set oProject = oDesktop.SetActiveProject("artigo1")
+Set oProject = oDesktop.SetActiveProject(name)
 Set oDesign = oProject.SetActiveDesign("HFSSDesign1")
 
 
@@ -37,5 +38,5 @@ dict Variables,Wscript.Arguments(0)
 Dim obj
 For Each obj in Variables.Keys
 	oDesign.ChangeProperty Array("NAME:AllTabs", Array("NAME:LocalVariableTab", Array("NAME:PropServers",  _
-  "LocalVariables"), Array("NAME:ChangedProps", Array("NAME:" & obj, "Value:=", Variables(obj)))))
+  "LocalVariables"), Array("NAME:ChangedProps", Array("NAME:" & obj, "Value:=", Variables(obj) & "mm"))))
 Next

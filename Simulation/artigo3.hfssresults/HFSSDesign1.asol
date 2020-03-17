@@ -1,11 +1,11 @@
 $begin '$base_index$'
   $begin 'properties'
     all_levels=000000000000
-    time(year=000000002020, month=000000000003, day=000000000003, hour=000000000018, min=000000000052, sec=000000000035)
+    time(year=000000002020, month=000000000003, day=000000000016, hour=000000000019, min=000000000050, sec=000000000055)
     version=000000000000
   $end 'properties'
   $begin '$base_index$'
-    $index$(pos=000000245754, lin=000000001020, lvl=000000000000)
+    $index$(pos=000000246396, lin=000000000202, lvl=000000000000)
   $end '$base_index$'
 $end '$base_index$'
 $begin 'SolutionBlock1'
@@ -14,10 +14,12 @@ $begin 'SolutionBlock1'
 	VersionID=3294
 	PostProcess=false
 	LossLess=true
-	NextUniqueID=3359
+	NextUniqueID=3444
 	MoveBackwards=false
 	$begin 'VariationIDs'
 		Map(V='$c=\'2mm\' $g=\'1mm\' $h=\'1.57mm\' $L=\'65mm\' $LL=\'22mm\' $W=\'65mm\' $wl=\'3mm\' d1=\'2mm\' d2=\'15mm\' g=\'0.2mm\' h=\'1.57mm\' l=\'10mm\' Ld=\'4mm\' Lg1=\'8mm\' Lg2=\'1mm\' Lpd=\'0.8mm\' Ltotal=\'27mm\' r1=\'3.1mm\' r2=\'4.5mm\' r3=\'7.5mm\' s=\'0.5mm\' w=\'0.3mm\' w1=\'1.04mm\' w2=\'0.83mm\' wf=\'3mm\' Wg=\'1.3mm\' Wg1=\'10.6mm\' Wg2=\'4mm\' Wg3=\'1mm\'', ID=3292)
+		Map(V='$c=\'2mm\' $g=\'1mm\' $h=\'1.57mm\' $L=\'65mm\' $LL=\'22mm\' $W=\'65mm\' $wl=\'3mm\' d1=\'2mm\' d2=\'15mm\' g=\'0.2mm\' h=\'1.57mm\' l=\'10mm\' Lg1=\'8mm\' Ltotal=\'27mm\' r1=\'3.1mm\' r2=\'4.5mm\' r3=\'7.5mm\' s=\'0.5mm\' w=\'0.3mm\' w1=\'1.04mm\' w2=\'0.83mm\' wf=\'3mm\' Wg=\'1.3mm\' Wg1=\'10.6mm\' Wg2=\'4mm\' Wg3=\'1mm\'', ID=3389)
+		Map(V='$c=\'2mm\' $g=\'1mm\' $h=\'1.57mm\' $L=\'65mm\' $LL=\'22mm\' $W=\'65mm\' $wl=\'3mm\' d1=\'2mm\' d2=\'15mm\' g=\'0.2mm\' h=\'1.57mm\' l=\'10mm\' Lg1=\'8mm\' Ltotal=\'27mm\' r1=\'3.1mm\' r2=\'4.5mm\' r3=\'7.5mm\' s=\'0.5mm\' w=\'0.3mm\' w1=\'1.04mm\' w2=\'0.83mm\' Wg=\'1.3mm\'', ID=3390)
 		Map(V='$c=\'2mm\' $g=\'1mm\' $h=\'1.57mm\' $L=\'65mm\' $LL=\'22mm\' $W=\'65mm\' $wl=\'3mm\' h=\'1.57mm\' L1=\'0mm\' L2=\'0mm\' L3=\'0mm\' L4=\'0mm\' L5=\'0mm\' W1=\'0mm\' W2=\'0mm\' W3=\'0mm\' W4=\'0mm\' W5=\'0mm\' W6=\'0mm\' W7=\'0mm\'', ID=2192)
 		Map(V='$c=\'2mm\' $g=\'1mm\' $h=\'1.57mm\' $L=\'65mm\' $LL=\'22mm\' $W=\'65mm\' $wl=\'3mm\' h=\'1.57mm\' L1=\'0mm\' L2=\'0mm\' L3=\'0mm\' L4=\'0mm\' L5=\'0mm\' W1=\'37.246mm\' W2=\'0mm\' W3=\'0mm\' W4=\'0mm\' W5=\'0mm\' W6=\'0mm\' W7=\'0mm\'', ID=2194)
 		Map(V='$c=\'2mm\' $g=\'1mm\' $h=\'1.57mm\' $L=\'65mm\' $LL=\'22mm\' $W=\'65mm\' $wl=\'3mm\' h=\'1.57mm\' L1=\'0mm\' L2=\'0mm\' L3=\'0mm\' L4=\'0mm\' L5=\'0mm\' W1=\'37.246mm\' W2=\'26.719mm\' W3=\'0mm\' W4=\'0mm\' W5=\'0mm\' W6=\'0mm\' W7=\'0mm\'', ID=2195)
@@ -1029,15 +1031,14 @@ $begin 'SolutionBlock96'
 $end 'SolutionBlock96'
 $begin '$index$'
 	$begin '$index$'
-		BlockMapName(pos=239821, lin=811, lvl=0)
-		SolutionBlock98(pos=244456, lin=972, lvl=0)
-		SolutionBlock94(pos=241617, lin=848, lvl=0)
-		SolutionBlock95(pos=243779, lin=939, lvl=0)
-		SolutionBlock96(pos=245098, lin=989, lvl=0)
-		SolutionBlock97(pos=240891, lin=819, lvl=0)
-		SolutionBlock1(pos=370, lin=1, lvl=0)
+		SolutionBlock96(pos=245740, lin=171, lvl=0)
+		SolutionBlock1(pos=370, lin=11, lvl=0)
+		BlockMapName(pos=240463, lin=823, lvl=0)
+		SolutionBlock97(pos=241533, lin=1, lvl=0)
+		SolutionBlock94(pos=242259, lin=30, lvl=0)
+		SolutionBlock95(pos=244421, lin=121, lvl=0)
+		SolutionBlock98(pos=245098, lin=154, lvl=0)
 		$base_index$(pos=0, lin=1, lvl=0)
-		$index$(pos=245754, lin=1020, lvl=0)
+		$index$(pos=246396, lin=202, lvl=0)
 	$end '$index$'
 $end '$index$'
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

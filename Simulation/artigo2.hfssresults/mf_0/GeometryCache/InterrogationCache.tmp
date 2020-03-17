@@ -1,5 +1,5 @@
 $begin 'CacheDataVersion'
-	DataVersion=291
+	DataVersion=304
 $end 'CacheDataVersion'
 $begin 'InterrogationCache'
 	Version=1
@@ -12,20 +12,24 @@ $begin 'InterrogationCache'
 		$g='1mm'
 		$c='2mm'
 		h='1.57mm'
-		Lp1='3.635mm'
-		Lp2='18.282mm'
-		Lp3='19.433mm'
-		Wp1='19.978mm'
-		Wp2='18.83mm'
-		Wp3='4.903mm'
-		Lg2='0.854mm'
-		Lpd='41.989mm'
+		Lp1='5mm'
+		Lp2='7mm'
+		Lp3='6.5mm'
+		Wp1='2.5mm'
+		Wp2='2.5mm'
+		Wp3='5mm'
+		Lg2='1mm'
+		Lpd='0.8mm'
 		Ld='27.412mm'
-		Wg1='5.44mm'
-		Wg2='2.457mm'
-		Wg3='8.973mm'
-		wf='2.199mm'
-		Lg1='9.159mm'
+		Wg1='10.6mm'
+		Wg2='4mm'
+		Wg3='1mm'
+		wf='3mm'
+		Lg1='8mm'
+		Lp4='0mm'
+		gap='0.1mm'
+		largura_quadro='0.1mm'
+		Wfl='3*(2*$g+$wl)'
 	$end 'VariableValues'
 	$begin 'ValidationStatus'
 		$begin 'Options'
@@ -37,43 +41,45 @@ $begin 'InterrogationCache'
 	$end 'ValidationStatus'
 	$begin 'BodyCaches'
 		$begin '576'
-			$begin 'CheckStatus'
-				CheckLevel=20
-				Status=true
-			$end 'CheckStatus'
 			$begin 'BoundingBox'
-				Low[3: -7.5, -0.017999999999999999, -3.1400000000000001]
-				High[3: 7.5, 0, 3.1400000000000001]
+				Low[3: -4.8000000000000007, -0.017999999999999999, -3.1400000000000001]
+				High[3: 4.8000000000000007, 0, 3.1400000000000001]
 				Exact=false
 				Valid=true
 			$end 'BoundingBox'
 		$end '576'
-		$begin '605'
-		$end '605'
 		$begin '2000'
 			$begin 'BoundingBox'
-				Low[3: -48.528500000000001, 0, -1.5700000000000001]
-				High[3: 48.528500000000001, 27.477, 0]
+				Low[3: -12.200000000000001, 0, -1.5700000000000001]
+				High[3: 12.200000000000001, 24, 0]
 				Exact=false
 				Valid=true
 			$end 'BoundingBox'
 		$end '2000'
-		$begin '4206'
+		$begin '4482'
 			$begin 'BoundingBox'
-				Low[3: -40.111499999999992, 0, 0]
-				High[3: 40.111499999999992, 69.429999999999993, 0]
+				Low[3: -7.5, 0, 0]
+				High[3: 7.5, 15.800000000000001, 0]
 				Exact=false
 				Valid=true
 			$end 'BoundingBox'
-		$end '4206'
-		$begin '4218'
+		$end '4482'
+		$begin '4581'
 			$begin 'BoundingBox'
-				Low[3: -48.528500000000001, 0, 0]
-				High[3: 48.528500000000001, 27.477, 0]
+				Low[3: -12.200000000000003, 0, 0]
+				High[3: 12.199999999999999, 24.000000000000004, 0]
 				Exact=false
 				Valid=true
 			$end 'BoundingBox'
-		$end '4218'
+		$end '4581'
+		$begin '4596'
+			$begin 'BoundingBox'
+				Low[3: -72.200000000000003, -60.018000000000001, -63.140000000000001]
+				High[3: 72.200000000000003, 84, 63.140000000000001]
+				Exact=false
+				Valid=true
+			$end 'BoundingBox'
+		$end '4596'
 	$end 'BodyCaches'
 	$begin 'IntersectionCaches'
 	$end 'IntersectionCaches'
